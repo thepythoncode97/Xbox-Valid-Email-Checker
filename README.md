@@ -1,6 +1,8 @@
 # Xbox Valid Email Checker
 
-![Xbox Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Xbox-Valid-Email-Checker/refs/heads/main/Xbox_Valid_Email_Checker.png)
+![Xbox Valid Email Checker](https://raw.githubusercontent.com/thepythoncode97/Xbox-Valid-Email-Checker/refs/heads/main/Xbox_Valid_Email_Checker.png)
+![Xbox Valid Email Checker](https://raw.githubusercontent.com/thepythoncode97/Xbox-Valid-Email-Checker/refs/heads/main/Screenshot_326.png)
+![Xbox Valid Email Checker](https://raw.githubusercontent.com/thepythoncode97/Xbox-Valid-Email-Checker/refs/heads/main/Screenshot_325.png)
 
 ## Features
 
